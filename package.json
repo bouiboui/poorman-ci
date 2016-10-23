@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "github": "^5.2.2",
+    "gulp": "^3.9.1"
+  }
+}

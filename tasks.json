@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "desc": "Display start message",
+      "cmd": "echo \"Hello!\" && exit 0"
+    },
+    {
+      "desc": "Display end message",
+      "cmd": "echo \"Goodbye!\" && exit 1"
+    }
+  ]
+}
